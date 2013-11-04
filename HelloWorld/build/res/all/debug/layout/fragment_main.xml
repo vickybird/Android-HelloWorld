@@ -9,9 +9,17 @@
     tools:context=".MainActivity$PlaceholderFragment">
 
     <TextView
+        android:id="@+id/textbox"
         android:text="@string/hello_world"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
+    <Button
+        android:text="@string/click_me"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:onClick="onButtonClick"/>
 
 </RelativeLayout>
 <!-- From: file:/C:/Users/Vicky/AndroidStudioProjects/HelloWorldProject/HelloWorld/src/main/res/layout/fragment_main.xml -->

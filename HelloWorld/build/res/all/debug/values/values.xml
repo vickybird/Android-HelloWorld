@@ -514,7 +514,10 @@
 
     <string name="action_settings">Settings</string>
     <string name="app_name">HelloWorld</string>
+    <string name="click_me">Click Me!</string>
     <string name="hello_world">Hello world!</string>
+    <string name="second_activity_text">I have no idea what I\'m doing.</string>
+    <string name="title_activity_second">SecondActivity</string>
     <!-- From: file:/C:/Users/Vicky/AndroidStudioProjects/HelloWorldProject/HelloWorld/src/main/res/values/styles.xml -->
     <eat-comment />
 

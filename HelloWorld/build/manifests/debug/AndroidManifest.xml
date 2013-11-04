@@ -10,6 +10,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:label="@string/title_activity_second" android:name="com.vickybird.helloworld.SecondActivity">
+        </activity>
     </application>
 
 </manifest>
